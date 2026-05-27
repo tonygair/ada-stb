@@ -1,6 +1,6 @@
 name = "ada_stb"
-description = "Ada bindings to STB header-only utility headers (Sean Barrett's stb_image, stb_truetype, ...)"
-version = "0.1.0-dev"
+description = "Ada bindings to Sean Barrett's STB header-only utility libraries"
+version = "0.1.0"
 authors = ["The Dark Factory Ltd"]
 maintainers = ["tony.gair@thedarkfactory.co.uk"]
 maintainers-logins = ["tonygair"]
