@@ -16,3 +16,9 @@ of this version's scope.
 ## License
 
 MIT — matches the MIT half of STB's dual license.
+
+## Thanks
+
+Dedicated to the Ada community who have answered countless
+questions, corrected countless mistakes, and saved countless
+hours of head-scratching over the decades. See [THANKS.md](THANKS.md).
